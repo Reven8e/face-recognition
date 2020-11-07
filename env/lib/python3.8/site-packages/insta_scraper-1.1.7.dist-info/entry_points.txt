@@ -1,0 +1,3 @@
+[console_scripts]
+insta-scraper = insta.insta:main
+
